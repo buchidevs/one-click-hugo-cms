@@ -1,5 +1,5 @@
 ---
-title: Hello Adequip
+title: Hello Adequip 2
 date: 2016-12-15T15:04:10.000Z
 description: >-
   The Coffee Taster’s Flavor Wheel, the official resource used by coffee
