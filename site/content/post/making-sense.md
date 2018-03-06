@@ -1,6 +1,6 @@
 ---
-title: Making sense huehue of the SCAA’s new Flavor Wheel
-date: 2016-12-15T23:04:10+08:00
+title: Hello Adequip
+date: 2016-12-15T15:04:10.000Z
 description: >-
   The Coffee Taster’s Flavor Wheel, the official resource used by coffee
   tasters, has been revised for the first time this year.
